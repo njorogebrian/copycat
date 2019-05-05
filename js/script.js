@@ -1,0 +1,13 @@
+$(document).ready(function(){
+  $("#one").click(fuction){
+    $(#"").toggle();
+  });
+$(#"two").click(function(){
+  $(#"").toggle();
+  $("").toggle();
+});
+$("#three").click(function(){
+  $("#").toggle();
+  $("").toggle();
+});
+});

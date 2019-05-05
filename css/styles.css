@@ -32,6 +32,12 @@
 }
 
 
-.message{background: transparent;
-
+.message{
+  background: transparent;
+}
+.social{
+  text-align: center;
+}
+.showing{
+  display: none
 }
