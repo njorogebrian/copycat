@@ -1,6 +1,6 @@
 $(document).ready(function(){
   $("#one").click(fuction){
-    $(#"").toggle();
+    $(".showing").toggle();
   });
 $(#"two").click(function(){
   $(#"").toggle();
