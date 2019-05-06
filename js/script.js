@@ -1,13 +1,8 @@
 $(document).ready(function(){
-  $("#one").click(fuction){
-    $(".showing").toggle();
+  $("#one").click(function(){
+    $(".showing1").toggle();
   });
-$(#"two").click(function(){
-  $(#"").toggle();
-  $("").toggle();
-});
-$("#three").click(function(){
-  $("#").toggle();
-  $("").toggle();
-});
-});
+
+
+  var user = document.getElementById('#input1').value;
+})
